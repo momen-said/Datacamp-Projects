@@ -1,2 +1,5 @@
 # datacamp-SQL-projects
-all the projects i solved on datacamp
+
+### this is a repo for all the data projects i had solved on datacamp using SQL
+
+- Optimizing Online Sports Retail Revenue
