@@ -1,7 +1,8 @@
 # Datacamp SQL projects
 
-# this is a repo for all the projects i had solved on datacamp using SQL
+# This is a Repo for all the Projects I had solved on Datacamp using SQL
 
 ## projects:
 - Optimizing Online Sports Retail Revenue
 - Analyze International Debt Statistics
+- What and Where are the World's Oldest Businesses
